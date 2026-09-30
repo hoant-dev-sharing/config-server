@@ -1,0 +1,3 @@
+API_DOCS_OAUTH2_AUTH_URL: http://localhost:8001/oauth2/authorize
+API_DOCS_OAUTH2_TOKEN_URL: http://localhost:8001/oauth2/token
+API_DOCS_SERVER: http://localhost:8888/credit

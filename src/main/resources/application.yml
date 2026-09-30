@@ -1,0 +1,11 @@
+server:
+  port: 6969
+
+spring:
+  profiles:
+    include: native
+  cloud:
+    config:
+      server:
+        native:
+          search-locations: file:/Users/ngotrihoa/Workspace/home/java/fox-learning/dev-sharing/config-server/configs
